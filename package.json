@@ -1,0 +1,16 @@
+{
+  "name": "egen-fe-challenge",
+  "version": "0.0.1",
+  "description": "Calculator and Scientific definition as per test spec ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankith Jain",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-open": "^2.0.0",
+    "jasmine": "^2.4.1"
+  }
+}
