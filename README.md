@@ -1,5 +1,5 @@
 # JavaScript-Calculator-and-Jasmine-Unit-Tests
-Designed and developed Calculator and ScientificCalculator definition along unit tests using Jasmine 2.4.1 
+Designed and developed Calculator and ScientificCalculator definition and unit tests using Jasmine 2.4.1 
 
 Tools and Technologies Used - Webstorm IDE, JavaScript, Jasmine 2.4.1, gulp 
 
